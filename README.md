@@ -1,24 +1,11 @@
-# README
+# My Closet (backend)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- <b>My Closet</b>: A website for people with small spaces that can be used to track and view the various clothing items in their house. It's an easy way to see what you have without rummaging through storage bins and your actual closet.
 
-Things you may want to cover:
+- <b>User stories</b>: 
+    - AAU, I should be able to add items to my page that includes information about the item and a photo.
+    - AAU, I should be able to delete items.
+    - AAU, I should be able to view items.
+    - AAU, I should be able to update items.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Click here to check out the live app.](https://cranky-banach-497ea3.netlify.app/)
